@@ -1,0 +1,576 @@
+Ticker,Name,Exchange,exchangeDisplay,Type,TypeDisplay
+B,Barnes Group Inc.,NYQ,NYSE,S,Equity
+BA,The Boeing Company,NYQ,NYSE,S,Equity
+BMRA,"Biomerica, Inc.",NCM,NASDAQ,S,Equity
+BOACU,Bluescape Opportunities Acquisition Corp.,NYS,NYSE,S,Equity
+BVS,Bioventus Inc.,NGM,NASDAQ,S,Equity
+RILYT,"B. Riley Financial, Inc. 6.00% Senior Notes Due 2028",NGM,NASDAQ,S,Equity
+BIGC,"BigCommerce Holdings, Inc.",NGM,NASDAQ,S,Equity
+BCAB,"BioAtla, Inc.",NGM,NASDAQ,S,Equity
+BSPE,Bespoke Capital Acquisition Corp.,NGM,NASDAQ,S,Equity
+BNL,"Broadstone Net Lease, Inc.",NYS,NYSE,S,Equity
+C,Citigroup Inc.,NYQ,NYSE,S,Equity
+CVAC,CureVac N.V.,NGM,NASDAQ,S,Equity
+CRSR,"Corsair Gaming, Inc.",NGM,NASDAQ,S,Equity
+CALT,Calliditas Therapeutics AB (publ),NGM,NASDAQ,S,Equity
+CND-UN,Concord Acquisition Corp,NYS,NYSE,S,Equity
+CPTKU,Crown PropTech Acquisitions,NYS,NYSE,S,Equity
+CCCC,"C4 Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+CLIMU,Climate Real Impact Solutions II Acquisition Corp,NYS,NYSE,S,Equity
+CGEM,"Cullinan Oncology, Inc.",NGM,NASDAQ,S,Equity
+CVIIU,Churchill Capital Corp VII,NYS,NYSE,S,Equity
+D,"Dominion Energy, Inc.",NYQ,NYSE,S,Equity
+DASH,"DoorDash, Inc.",NYS,NYSE,S,Equity
+DMYIU,"dMY Technology Group, Inc. III",NYS,NYSE,S,Equity
+DWINU,Delwinds Insurance Acquisition Corp.,NYS,NYSE,S,Equity
+NAPA,"Duckhorn Portfolio, Inc.",NYS,NYSE,S,Equity
+MSP,Datto Holding Corp.,NYS,NYSE,S,Equity
+DHBCU,DHB Capital Corp.,NCM,NASDAQ,S,Equity
+DUNEW,Dune Acquisition Corporation,NCM,NASDAQ,S,Equity
+DLCAW,Deep Lake Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+DHCAU,DHC Acquisition Corp.,NCM,NASDAQ,S,Equity
+E,Eni S.p.A.,NYQ,NYSE,S,Equity
+EPWRU,Empowerment & Inclusion Capital I Corp.,NYS,NYSE,S,Equity
+ESM-UN,Esm Acquisition Corp,NYS,NYSE,S,Equity
+EVOJU,Evo Acquisition Corp.,NCM,NASDAQ,S,Equity
+EUSGU,European Sustainable Growth Acquisition Corp.,NCM,NASDAQ,S,Equity
+EJFAU,EJF Acquisition Corp.,NCM,NASDAQ,S,Equity
+ENVIW,Environmental Impact Acquisition Corp.,NCM,NASDAQ,S,Equity
+EAR,"Eargo, Inc.",NMS,NASDAQ,S,Equity
+EACU,Edify Acquisition Corp.,NCM,NASDAQ,S,Equity
+EUSG,European Sustainable Growth Acquisition Corp.,NAS,NASDAQ,S,Equity
+F,Ford Motor Company,NYQ,NYSE,S,Equity
+FUSN,Fusion Pharmaceuticals Inc.,NGM,NASDAQ,S,Equity
+FDMT,"4D Molecular Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+FHTX,Foghorn Therapeutics Inc.,NGM,NASDAQ,S,Equity
+FGNAU,FG New America Acquisition Corp.,NYS,NYSE,S,Equity
+FRX-UN,Forest Road Acquisition Corp.,NYS,NYSE,S,Equity
+FMTX,"Forma Therapeutics Holdings, Inc.",NGM,NASDAQ,S,Equity
+FSNBU,Fusion Acquisition Corp. II,NYS,NYSE,S,Equity
+FHS,"First High-School Education Group Co., Ltd.",NYS,NYSE,S,Equity
+FRXBU,Forest Road Acquisition Corp. II,NYS,NYSE,S,Equity
+G,Genpact Limited,NYQ,NYSE,S,Equity
+LANDM,Gladstone Land Corporation,NGM,NASDAQ,S,Equity
+GBS,GBS Inc.,NGM,NASDAQ,S,Equity
+GLTO,"Galecto, Inc.",NGM,NASDAQ,S,Equity
+KEJI,Global X Funds - Global X China Disruption ETF,NGM,NASDAQ,E,ETF
+GBIO,Generation Bio Co.,NGM,NASDAQ,S,Equity
+GMTX,"Gemini Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+GOCO,"GoHealth, Inc.",NGM,NASDAQ,S,Equity
+GRAY,"Graybug Vision, Inc.",NGM,NASDAQ,S,Equity
+GTH,Genetron Holdings Limited,NGM,NASDAQ,S,Equity
+H,Hyatt Hotels Corporation,NYQ,NYSE,S,Equity
+HRMY,"Harmony Biosciences Holdings, Inc.",NGM,NASDAQ,S,Equity
+HYFM,"Hydrofarm Holdings Group, Inc.",NGM,NASDAQ,S,Equity
+HAYW,"Hayward Holdings, Inc.",NYS,NYSE,S,Equity
+HZONU,Horizon Acquisition Corp II,NYS,NYSE,S,Equity
+HAACU,Health Assurance Acquisition Corp.,NGM,NASDAQ,S,Equity
+HIGAU,H.I.G. Acquisition Corp.,NYS,NYSE,S,Equity
+HYMCL,Hycroft Mining Holding Corporation,NCM,NASDAQ,S,Equity
+HERAU,FTAC Hera Acquisition Corp.,NCM,NASDAQ,S,Equity
+HMPT,Home Point Capital Inc.,NMS,NASDAQ,S,Equity
+INBX,"Inhibrx, Inc.",NGM,NASDAQ,S,Equity
+INZY,"Inozyme Pharma, Inc.",NGM,NASDAQ,S,Equity
+IPVFU,InterPrivate III Financial Partners Inc.,NYS,NYSE,S,Equity
+IVANU,Ivanhoe Capital Acquisition Corp.,NYS,NYSE,S,Equity
+IVA,Inventiva S.A.,NGM,NASDAQ,S,Equity
+NARI,"Inari Medical, Inc.",NGM,NASDAQ,S,Equity
+ITOS,"iTeos Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+IIACU,Investindustrial Acquisition Corp.,NYS,NYSE,S,Equity
+IPVAU,InterPrivate II Acquisition Corp.,NYS,NYSE,S,Equity
+IPODU,Social Capital Hedosophia Holdings Corp. IV,NYS,NYSE,S,Equity
+J,Jacobs Engineering Group Inc.,NMS,NASDAQ,S,Equity
+JOAN,"JOANN, Inc. Common Stock",NGM,NASDAQ,S,Equity
+JOFFU,JOFF Fintech Acquisition Corp.,NCM,NASDAQ,S,Equity
+JCIC,Jack Creek Investment Corp.,NMS,NASDAQ,S,Equity
+JCICW,Jack Creek Investment Corp. Warrants,NAS,NASDAQ,S,Equity
+JYAC,Jiya Acquisition Corp.,NCM,NASDAQ,S,Equity
+JCICU,Jack Creek Investment Corp.,NAS,NASDAQ,S,Equity
+JWEL,Jowell Global Ltd.,NAS,NASDAQ,S,Equity
+JUPW,"Jupiter Wellness, Inc.",NCM,NASDAQ,S,Equity
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,NYQ,NYSE,E,ETF
+K,Kellogg Company,NYQ,NYSE,S,Equity
+KYMR,"Kymera Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+KCACU,Kensington Capital Acquisition Corp.,NYS,NYSE,S,Equity
+KWACU,Kingswood Acquisition Corp.,NYS,NYSE,S,Equity
+KROS,"Keros Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+BEKE,KE Holdings Inc.,NYS,NYSE,S,Equity
+KAIIU,Kismet Acquisition Two Corp.,NCM,NASDAQ,S,Equity
+INKA,Kludein I Acquisition Corp.,NCM,NASDAQ,S,Equity
+KIIIU,Kismet Acquisition Three Corp.,NAS,NASDAQ,S,Equity
+L,Loews Corporation,NYQ,NYSE,S,Equity
+LDI,"loanDepot, Inc.",NYS,NYSE,S,Equity
+LABP,"Landos Biopharma, Inc.",NGM,NASDAQ,S,Equity
+LOAKU,LIVE OAK ACQUISITION CORP,NYS,NYSE,S,Equity
+LEGN,Legend Biotech Corporation,NGM,NASDAQ,S,Equity
+LYRA,"Lyra Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+LESL,"Leslie's, Inc.",NGM,NASDAQ,S,Equity
+LXEH,"Lixiang Education Holding Co., Ltd.",NGM,NASDAQ,S,Equity
+LOKMU,Live Oak Mobility Acquisition Corp.,NYS,NYSE,S,Equity
+M,"Macy's, Inc.",NYQ,NYSE,S,Equity
+MSFT,Microsoft Corporation,NMS,NASDAQ,S,Equity
+MTCR,"Metacrine, Inc.",NGM,NASDAQ,S,Equity
+MASS,908 Devices Inc.,NGM,NASDAQ,S,Equity
+MOTVU,Motive Capital Corp,NYS,NYSE,S,Equity
+MYTE,MYT Netherlands Parent B.V.,NYS,NYSE,S,Equity
+MACCU,Mission Advancement Corp.,NYS,NYSE,S,Equity
+MITC,MeaTech 3D Ltd. American Depositary Shares,NCM,NASDAQ,S,Equity
+MRAC,Marquee Raine Acquisition Corp.,NCM,NASDAQ,S,Equity
+NNOX,Nano-X Imaging Ltd.,NGM,NASDAQ,S,Equity
+NAPAU,TCW Special Purpose Acquisition Corp.,NYS,NYSE,S,Equity
+NEWTZ,Newtek Business Services Corp. 5.50% Notes Due 2026,NGM,NASDAQ,S,Equity
+NGMS,NeoGames S.A.,NGM,NASDAQ,S,Equity
+NEXI,"NexImmune, Inc.",NGM,NASDAQ,S,Equity
+NKTX,"Nkarta, Inc.",NGM,NASDAQ,S,Equity
+NRIX,"Nurix Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+NGABU,Northern Genesis Acquisition Corp. II,NYS,NYSE,S,Equity
+O,Realty Income Corporation,NYQ,NYSE,S,Equity
+OLMA,"Olema Pharmaceuticals, Inc.",NGM,NASDAQ,S,Equity
+ONTF,"ON24, Inc.",NYS,NYSE,S,Equity
+ONCR,"Oncorus, Inc.",NGM,NASDAQ,S,Equity
+OSCR,"Oscar Health, Inc.",NYS,NYSE,S,Equity
+OHPAU,Orion Acquisition Corp.,NCM,NASDAQ,S,Equity
+OCAXU,OCA Acquisition Corp.,NCM,NASDAQ,S,Equity
+ORPH,Orphazyme A/S,NMS,NASDAQ,S,Equity
+OCAXW,OCA Acquisition Corp.,NAS,NASDAQ,S,Equity
+OSTR,Oyster Enterprises Acquisition Corp. Class A Common Stock,NCM,NASDAQ,S,Equity
+UCYB,ProShares Ultra Nasdaq Cybersecurity,NGM,NASDAQ,E,ETF
+PRAX,"Praxis Precision Medicines, Inc.",NGM,NASDAQ,S,Equity
+SQFT,"Presidio Property Trust, Inc.",NGM,NASDAQ,S,Equity
+PDOTU,Peridot Acquisition Corp. II,NYS,NYSE,S,Equity
+PYPD,PolyPid Ltd.,NGM,NASDAQ,S,Equity
+PUBM,"PubMatic, Inc.",NGM,NASDAQ,S,Equity
+PLRX,"Pliant Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+PCPCU,Periphas Capital Partnering Corp,NYS,NYSE,S,Equity
+SKYU,ProShares Ultra Cloud Computing,NGM,NASDAQ,E,ETF
+PIPPU,Pine Island Acquisition Corp.,NYS,NYSE,S,Equity
+QLI,Qilian International Holding Group Limited,NGM,NASDAQ,S,Equity
+GMBTU,Queen's Gambit Growth Capital,NCM,NASDAQ,S,Equity
+GMBTW,Queen's Gambit Growth Capital Warrant,NAS,NASDAQ,S,Equity
+QQQ,Invesco QQQ Trust,NGM,NASDAQ,E,ETF
+QCOM,QUALCOMM Incorporated,NAS,NASDAQ,S,Equity
+QSR,Restaurant Brands International Inc.,NYQ,NYSE,S,Equity
+DGX,Quest Diagnostics Incorporated,NYQ,NYSE,S,Equity
+QD,Qudian Inc.,NYS,NYSE,S,Equity
+QRVO,"Qorvo, Inc.",NMS,NASDAQ,S,Equity
+QLD,ProShares Ultra QQQ,PCX,NYSEArca,E,ETF
+R,"Ryder System, Inc.",NYQ,NYSE,S,Equity
+RLAY,"Relay Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+RBLX,Roblox Corporation,NYS,NYSE,S,Equity
+RPTX,Repare Therapeutics Inc.,NGM,NASDAQ,S,Equity
+RICEU,Rice Acquisition Corp.,NYS,NYSE,S,Equity
+RTPZU,Reinvent Technology Partners Z,NYS,NYSE,S,Equity
+ROOT,"Root, Inc.",NMS,NASDAQ,S,Equity
+RMGB,RMG Acquisition Corporation II,NAS,NASDAQ,S,Equity
+RXDX,"Prometheus Biosciences, Inc. Common Stock",NAS,NASDAQ,S,Equity
+SPY,SPDR S&P 500 ETF Trust,NYQ,NYSE,E,ETF
+SGFY,"Signify Health, Inc.",NYS,NYSE,S,Equity
+SGTX,"Sigilon Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+SNIIU,"Supernova Partners Acquisition Co II, Ltd.",NYS,NYSE,S,Equity
+SLACU,Social Leverage Acquisition Corp I,NYS,NYSE,S,Equity
+STTK,"Shattuck Labs, Inc.",NGM,NASDAQ,S,Equity
+SCPS,Scopus BioPharma Inc.,NGM,NASDAQ,S,Equity
+SNSE,"Sensei Biotherapeutics, Inc.",NGM,NASDAQ,S,Equity
+SHLS,"Shoals Technologies Group, Inc.",NGM,NASDAQ,S,Equity
+T,AT&T Inc.,NYQ,NYSE,S,Equity
+TSLA,"Tesla, Inc.",NAS,NASDAQ,S,Equity
+TLIS,Talis Biomedical Corporation,NGM,NASDAQ,S,Equity
+TPGYU,TPG Pace Beneficial Finance Corp.,NYS,NYSE,S,Equity
+TSHA,"Taysha Gene Therapies, Inc.",NGM,NASDAQ,S,Equity
+TARS,"Tarsus Pharmaceuticals, Inc.",NGM,NASDAQ,S,Equity
+TIXT,TELUS International (Cda) Inc.,NYS,NYSE,S,Equity
+TLGA,TLG Acquisition One Corp.,NYS,NYSE,S,Equity
+TSIBU,Tishman Speyer Innovation Corp. II,NCM,NASDAQ,S,Equity
+U,Unity Software Inc.,NYS,NYSE,S,Equity
+UPST,"Upstart Holdings, Inc.",NMS,NASDAQ,S,Equity
+UBER,"Uber Technologies, Inc.",NYS,NYSE,S,Equity
+UAL,"United Airlines Holdings, Inc.",NMS,NASDAQ,S,Equity
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,NYQ,NYSE,E,ETF
+USO,"United States Oil Fund, LP",PCX,NYSEArca,E,ETF
+UPS,"United Parcel Service, Inc.",NYQ,NYSE,S,Equity
+X,United States Steel Corporation,NYQ,NYSE,S,Equity
+UCO,ProShares Ultra Bloomberg Crude Oil,NYQ,NYSE,E,ETF
+V,Visa Inc.,NYQ,NYSE,S,Equity
+VEI,VINE ENERGY INC.,NYS,NYSE,S,Equity
+VERX,"Vertex, Inc.",NGM,NASDAQ,S,Equity
+VYGGU,Vy Global Growth,NYS,NYSE,S,Equity
+VLON,"Vallon Pharmaceuticals, Inc.",NAS,NASDAQ,S,Equity
+BUZZ,VanEck Vectors ETF Trust - VanEck Vectors Social Sentiment ETF,NYQ,NYSE,E,ETF
+VTAQW,Ventoux CCM Acquisition Corp.,NCM,NASDAQ,S,Equity
+VIIAW,7GC & Co. Holdings Inc.,NCM,NASDAQ,S,Equity
+VPCBU,VPC Impact Acquisition Holdings II,NCM,NASDAQ,S,Equity
+VOSO,Virtuoso Acquisition Corp. Class A Common Stock,NAS,NASDAQ,S,Equity
+W,Wayfair Inc.,NYQ,NYSE,S,Equity
+WIMI,WiMi Hologram Cloud Inc.,NGM,NASDAQ,S,Equity
+WMG,Warner Music Group Corp.,NGM,NASDAQ,S,Equity
+WCBR,WisdomTree Cybersecurity Fund,NGM,NASDAQ,E,ETF
+WARRU,Warrior Technologies Acquisition Co,NYS,NYSE,S,Equity
+WALDU,Waldencast Acquisition Corp.,NMS,NASDAQ,S,Equity
+WNW,Wunong Net Technology Company Limited,NCM,NASDAQ,S,Equity
+WAFDP,"Washington Federal, Inc. Depositary Shares",NAS,NASDAQ,S,Equity
+DIS,The Walt Disney Company,NYQ,NYSE,S,Equity
+WTRH,Waitr Holdings Inc.,NCM,NASDAQ,S,Equity
+XPEV,XPeng Inc.,NYS,NYSE,S,Equity
+XPDIU,Power & Digital Infrastructure Acquisition Corp.,NAS,NASDAQ,S,Equity
+XOM,Exxon Mobil Corporation,NYQ,NYSE,S,Equity
+XLE,Energy Select Sector SPDR Fund,PCX,NYSEArca,E,ETF
+XLK,Technology Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XLF,Financial Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,PCX,NYSEArca,E,ETF
+XLU,Utilities Select Sector SPDR Fund,NYQ,NYSE,E,ETF
+Y,Alleghany Corporation,NYQ,NYSE,S,Equity
+YQ,17 Education & Technology Group Inc.,NGM,NASDAQ,S,Equity
+YSG,Yatsen Holding Limited,NYS,NYSE,S,Equity
+YALA,Yalla Group Limited,NYS,NYSE,S,Equity
+YSACU,Yellowstone Acquisition Company,NCM,NASDAQ,S,Equity
+YGMZ,MingZhu Logistics Holdings Limited,NCM,NASDAQ,S,Equity
+AUY,Yamana Gold Inc.,NYQ,NYSE,S,Equity
+YUM,"Yum! Brands, Inc.",NYQ,NYSE,S,Equity
+YPF,YPF Sociedad Anónima,NYQ,NYSE,S,Equity
+YY,JOYY Inc.,NMS,NASDAQ,S,Equity
+Z,"Zillow Group, Inc.",NAS,NASDAQ,S,Equity
+ZNTL,"Zentalis Pharmaceuticals, Inc.",NGM,NASDAQ,S,Equity
+ZIM,ZIM Integrated Shipping Services Ltd.,NYS,NYSE,S,Equity
+ZNTEU,Zanite Acquisition Corp.,NCM,NASDAQ,S,Equity
+ZWRKU,Z-Work Acquisition Corp.,NAS,NASDAQ,S,Equity
+ZM,"Zoom Video Communications, Inc.",NMS,NASDAQ,S,Equity
+ZS,"Zscaler, Inc.",NMS,NASDAQ,S,Equity
+ZNGA,Zynga Inc.,NAS,NASDAQ,S,Equity
+ZSAN,Zosano Pharma Corporation,NCM,NASDAQ,S,Equity
+BAOS,Baosheng Media Group Holdings Limited,NCM,NASDAQ,S,Equity
+BAC,Bank of America Corporation,NYQ,NYSE,S,Equity
+BABA,Alibaba Group Holding Limited,NYS,NYSE,S,Equity
+GOLD,Barrick Gold Corporation,NMS,NASDAQ,S,Equity
+BIDU,"Baidu, Inc.",NMS,NASDAQ,S,Equity
+BAYRY,Bayer Aktiengesellschaft,PNK,OTC Markets,S,Equity
+BLDP,Ballard Power Systems Inc.,NGM,NASDAQ,S,Equity
+BHC,Bausch Health Companies Inc.,NMS,NASDAQ,S,Equity
+BB,BlackBerry Limited,NYQ,NYSE,S,Equity
+BBBY,Bed Bath & Beyond Inc.,NMS,NASDAQ,S,Equity
+BBY,"Best Buy Co., Inc.",NYQ,NYSE,S,Equity
+BBTV.TO,BBTV Holdings Inc.,TOR,Toronto,S,Equity
+BBVA,"Banco Bilbao Vizcaya Argentaria, S.A.",NYQ,NYSE,S,Equity
+BBQ,"BBQ Holdings, Inc.",NMS,NASDAQ,S,Equity
+BBN,BlackRock Taxable Municipal Bond Trust,NYS,NYSE,S,Equity
+BBC,Virtus LifeSci Biotech Clinical Trials ETF,NGM,NASDAQ,E,ETF
+BBD,Banco Bradesco S.A.,NYQ,NYSE,S,Equity
+BC,Brunswick Corporation,NYQ,NYSE,S,Equity
+BCTXW,BriaCell Therapeutics Corp.,NCM,NASDAQ,S,Equity
+BCYPW,Big Cypress Acquisition Corp.,NAS,NASDAQ,S,Equity
+BCACW,Brookline Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+BCACU,Brookline Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+BCTX,BriaCell Therapeutics Corp.,NCM,NASDAQ,S,Equity
+BLSA,BCLS Acquisition Corp.,NCM,NASDAQ,S,Equity
+BCYPU,Big Cypress Acquisition Corp.,NCM,NASDAQ,S,Equity
+BCRX,"BioCryst Pharmaceuticals, Inc.",NMS,NASDAQ,S,Equity
+BDSX,"Biodesix, Inc.",NGM,NASDAQ,S,Equity
+BDX,"Becton, Dickinson and Company",NYQ,NYSE,S,Equity
+BDSI,"BioDelivery Sciences International, Inc.",NCM,NASDAQ,S,Equity
+BDRBF,Bombardier Inc.,PNK,OTC Markets,S,Equity
+BDJ,BlackRock Enhanced Equity Dividend Trust,NYQ,NYSE,S,Equity
+BDC,Belden Inc.,NYQ,NYSE,S,Equity
+BDN,Brandywine Realty Trust,NYQ,NYSE,S,Equity
+BDTX,"Black Diamond Therapeutics, Inc.",NGM,NASDAQ,S,Equity
+BDRY,Breakwave Dry Bulk Shipping ETF,NYQ,NYSE,E,ETF
+BDL,"Flanigan's Enterprises, Inc.",ASE,NYSE MKT,S,Equity
+BE,Bloom Energy Corporation,NYS,NYSE,S,Equity
+BENEW,Benessere Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+BENE,Benessere Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+BWACU,Better World Acquisition Corp.,NCM,NASDAQ,S,Equity
+BENER,Benessere Capital Acquisition Corp.,NAS,NASDAQ,S,Equity
+BENEU,Benessere Capital Acquisition Corp.,NCM,NASDAQ,S,Equity
+BSY,"Bentley Systems, Incorporated",NMS,NASDAQ,S,Equity
+BRK-B,Berkshire Hathaway Inc.,NYQ,NYSE,S,Equity
+BFAM,Bright Horizons Family Solutions Inc.,NYQ,NYSE,S,Equity
+BF-B,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFST,"Business First Bancshares, Inc.",NMS,NASDAQ,S,Equity
+BFOCX,Berkshire Focus Fund,NAS,NASDAQ,M,Fund
+BFS,"Saul Centers, Inc.",NYQ,NYSE,S,Equity
+BFK,BlackRock Municipal Income Trust,NYQ,NYSE,S,Equity
+BFC,Bank First Corporation,NCM,NASDAQ,S,Equity
+BF-A,Brown-Forman Corporation,NYQ,NYSE,S,Equity
+BFZ,BlackRock California Municipal Income Trust,NYQ,NYSE,S,Equity
+BFIN,BankFinancial Corporation,NMS,NASDAQ,S,Equity
+BG,Bunge Limited,NYS,NYSE,S,Equity
+BGS,"B&G Foods, Inc.",NYQ,NYSE,S,Equity
+BGCP,"BGC Partners, Inc.",NMS,NASDAQ,S,Equity
+BGFV,Big 5 Sporting Goods Corporation,NMS,NASDAQ,S,Equity
+BGNE,"BeiGene, Ltd.",NGM,NASDAQ,S,Equity
+BGR,BlackRock Energy and Resources Trust,NYQ,NYSE,S,Equity
+BGSF,"BGSF, Inc.",NYQ,NYSE,S,Equity
+BGB,Blackstone/GSO Strategic Credit Fund,NYS,NYSE,S,Equity
+BGEIX,American Century Global Gold Fund Investor Class,NAS,NASDAQ,M,Fund
+BH,Biglari Holdings Inc.,NYQ,NYSE,S,Equity
+BHSEU,Bull Horn Holdings Corp.,NCM,NASDAQ,S,Equity
+BHP,BHP Group,NYQ,NYSE,S,Equity
+BHF,"Brighthouse Financial, Inc.",NMS,NASDAQ,S,Equity
+BHR,"Braemar Hotels & Resorts, Inc.",NMS,NASDAQ,S,Equity
+BHVN,Biohaven Pharmaceutical Holding Company Ltd.,NYS,NYSE,S,Equity
+BBL,BHP Group,NYQ,NYSE,S,Equity
+BHE,"Benchmark Electronics, Inc.",NYQ,NYSE,S,Equity
+BPTS,Biophytis SA,NCM,NASDAQ,S,Equity
+BIOTU,Biotech Acquisition Company,NCM,NASDAQ,S,Equity
+BNTX,BioNTech SE,NMS,NASDAQ,S,Equity
+BJ,"BJ's Wholesale Club Holdings, Inc.",NYS,NYSE,S,Equity
+BJRI,"BJ's Restaurants, Inc.",NMS,NASDAQ,S,Equity
+BJK,VanEck Vectors Gaming ETF,NGM,NASDAQ,E,ETF
+BJWTF,Beijing Enterprises Water Group Limited,PNK,OTC Markets,S,Equity
+BJUL,Innovator S&P 500 Buffer ETF – July,NYQ,NYSE,E,ETF
+BJCHF,Beijing Capital International Airport Company Limited,PNK,OTC Markets,S,Equity
+BJAN,Innovator S&P 500 Buffer ETF January,NYQ,NYSE,E,ETF
+BJBHX,Aberdeen Global High Income Fund Class A,NAS,NASDAQ,M,Fund
+BJUN,Innovator S&P 500 Buffer ETF - June,NYQ,NYSE,E,ETF
+BK,The Bank of New York Mellon Corporation,NYQ,NYSE,S,Equity
+BKNG,Booking Holdings Inc.,NMS,NASDAQ,S,Equity
+BKR,Baker Hughes Company,NYQ,NYSE,S,Equity
+BKG.AX,Booktopia Group Limited,ASX,Australian,S,Equity
+BKCC,BlackRock Capital Investment Corporation,NGM,NASDAQ,S,Equity
+BKYI,"BIO-key International, Inc.",PNK,OTC Markets,S,Equity
+BKD,Brookdale Senior Living Inc.,NYQ,NYSE,S,Equity
+BKLN,Invesco Senior Loan ETF,NYQ,NYSE,E,ETF
+BKH,Black Hills Corporation,NYQ,NYSE,S,Equity
+BL,"BlackLine, Inc.",NGM,NASDAQ,S,Equity
+BLUWW,Blue Water Acquisition Corp.,NCM,NASDAQ,S,Equity
+BLTS,Bright Lights Acquisition Corp.,NCM,NASDAQ,S,Equity
+BLUWU,Blue Water Acquisition Corp.,NCM,NASDAQ,S,Equity
+BLUW,Blue Water Acquisition Corp.,NCM,NASDAQ,S,Equity
+BLTSW,Bright Lights Acquisition Corp.,NAS,NASDAQ,S,Equity
+BLTSU,Bright Lights Acquisition Corp.,NCM,NASDAQ,S,Equity
+APRN,"Blue Apron Holdings, Inc.",NYS,NYSE,S,Equity
+BMRGU,B. Riley Principal Merger Corp. II,NYS,NYSE,S,Equity
+BMBL,Bumble Inc.,NMS,NASDAQ,S,Equity
+BMY,Bristol-Myers Squibb Company,NYQ,NYSE,S,Equity
+BMO,Bank of Montreal,NYQ,NYSE,S,Equity
+BMOB3.SA,Bemobi Mobile Tech S.A.,SAO,Sao Paolo,S,Equity
+BMRN,BioMarin Pharmaceutical Inc.,NMS,NASDAQ,S,Equity
+BMA,Banco Macro S.A.,NYS,NYSE,S,Equity
+BMWYY,Bayerische Motoren Werke Aktiengesellschaft,PNK,OTC Markets,S,Equity
+BML-PG,Bank of America Corporation,NYQ,NYSE,S,Equity
+BND,Vanguard Total Bond Market Index Fund ETF Shares,NGM,NASDAQ,E,ETF
+BNGO,"Bionano Genomics, Inc.",NGM,NASDAQ,S,Equity
+BNS,The Bank of Nova Scotia,NYQ,NYSE,S,Equity
+BNO,"United States Brent Oil Fund, LP",NYQ,NYSE,E,ETF
+BNDX,Vanguard Total International Bond Index Fund ETF Shares,NGM,NASDAQ,E,ETF
+BNFT,"Benefitfocus, Inc.",NGM,NASDAQ,S,Equity
+BNED,"Barnes & Noble Education, Inc.",NYQ,NYSE,S,Equity
+BNTC,Benitec Biopharma Inc.,NCM,NASDAQ,S,Equity
+BQ,Boqii Holding Limited,NYS,NYSE,S,Equity
+BOLT,"Bolt Biotherapeutics, Inc.",NMS,NASDAQ,S,Equity
+BYD,Boyd Gaming Corporation,NYQ,NYSE,S,Equity
+BSX,Boston Scientific Corporation,NYQ,NYSE,S,Equity
+BOX,"Box, Inc.",NYQ,NYSE,S,Equity
+BXP,"Boston Properties, Inc.",NYQ,NYSE,S,Equity
+BP,BP p.l.c.,NYQ,NYSE,S,Equity
+BPY,Brookfield Property Partners L.P.,NMS,NASDAQ,S,Equity
+BPM.AX,BPM Minerals Limited,ASX,Australian,S,Equity
+BPT,BP Prudhoe Bay Royalty Trust,NYQ,NYSE,S,Equity
+BPTH,"Bio-Path Holdings, Inc.",NCM,NASDAQ,S,Equity
+BPYU,Brookfield Property REIT Inc.,NMS,NASDAQ,S,Equity
+BPOP,"Popular, Inc.",NMS,NASDAQ,S,Equity
+BPMC,Blueprint Medicines Corporation,NMS,NASDAQ,S,Equity
+BQMGX,Bright Rock Mid Cap Growth Fund Institutional Class,NAS,NASDAQ,M,Fund
+BQLCX,Bright Rock Quality Large Cap Fund Institutional Class,NAS,NASDAQ,M,Fund
+BQLIX,Trust for Professional Managers - Bright Rock Quality Large Cap Fund,NAS,NASDAQ,M,Fund
+BQST,BioQuest Corp.,PNK,OTC Markets,S,Equity
+BTQNF,BQE Water Inc.,PNK,OTC Markets,S,Equity
+BQMIX,Trust for Professional Managers - Bright Rock Mid Cap Growth Fund,NAS,NASDAQ,M,Fund
+BQCNF,Banque Cantonale Vaudoise,PNK,OTC Markets,S,Equity
+BQSSF,Boss Resources Limited,PNK,OTC Markets,S,Equity
+BR,"Broadridge Financial Solutions, Inc.",NYQ,NYSE,S,Equity
+BRPMU,B. Riley Principal 150 Merger Corp.,NYS,NYSE,S,Equity
+BTNB,Bridgetown 2 Holdings Limited,NCM,NASDAQ,S,Equity
+BSM,"Black Stone Minerals, L.P.",NYQ,NYSE,S,Equity
+BSV,Vanguard Short-Term Bond Index Fund ETF Shares,NYQ,NYSE,E,ETF
+BSGM,"BioSig Technologies, Inc.",PNK,OTC Markets,S,Equity
+BST,BlackRock Science and Technology Trust,NYS,NYSE,S,Equity
+BSMX,"Banco Santander México, S.A., Institución de Banca Múltiple, Grupo Financiero Santander México",NYQ,NYSE,S,Equity
+BSTZ,BlackRock Science and Technology Trust II,NYQ,NYSE,S,Equity
+BSET,"Bassett Furniture Industries, Incorporated",NMS,NASDAQ,S,Equity
+BTWNU,Bridgetown Holdings Limited,NCM,NASDAQ,S,Equity
+BTAQU,Burgundy Technology Acquisition Corporation,NCM,NASDAQ,S,Equity
+BTI,British American Tobacco p.l.c.,NYQ,NYSE,S,Equity
+BTG,B2Gold Corp.,NYQ,NYSE,S,Equity
+BTAI,"BioXcel Therapeutics, Inc.",NCM,NASDAQ,S,Equity
+BTU,Peabody Energy Corporation,NYQ,NYSE,S,Equity
+BTSC,"Bitcoin Services, Inc.",PNK,OTC Markets,S,Equity
+BTO,John Hancock Financial Opportunities Fund,NYQ,NYSE,S,Equity
+BTZ,BlackRock Credit Allocation Income Trust,NYQ,NYSE,S,Equity
+BUD,Anheuser-Busch InBev SA/NV,NYQ,NYSE,S,Equity
+BURL,"Burlington Stores, Inc.",NYS,NYSE,S,Equity
+BLDR,"Builders FirstSource, Inc.",NMS,NASDAQ,S,Equity
+BKE,"The Buckle, Inc.",NYQ,NYSE,S,Equity
+BUSE,First Busey Corporation,NMS,NASDAQ,S,Equity
+BV,"BrightView Holdings, Inc.",NYS,NYSE,S,Equity
+BVXV,BiondVax Pharmaceuticals Ltd.,NAS,NASDAQ,S,Equity
+BVN,Compañía de Minas Buenaventura S.A.A.,NYQ,NYSE,S,Equity
+BVNNF,BevCanna Enterprises Inc.,PNK,OTC Markets,S,Equity
+BVTK,"Bravatek Solutions, Inc.",PNK,OTC Markets,S,Equity
+^EMCLOUD,BVP Nasdaq Emerging Cloud Index,NIM,NASDAQ GIDS,I,Index
+BVDIX,William Blair Small Cap Value Fund Class I,NAS,NASDAQ,M,Fund
+BVFL,"BV Financial, Inc.",PNK,OTC Markets,S,Equity
+BW,"Babcock & Wilcox Enterprises, Inc.",NYQ,NYSE,S,Equity
+BWIDL.OL,BW Ideol AS,OSL,Oslo,S,Equity
+BWA,BorgWarner Inc.,NYQ,NYSE,S,Equity
+BWXT,"BWX Technologies, Inc.",NYQ,NYSE,S,Equity
+BWAY,Brainsway Ltd.,NGM,NASDAQ,S,Equity
+BWEN,"Broadwind, Inc.",NCM,NASDAQ,S,Equity
+BWTX,"Bakken Water Transfer Services, Inc.",PNK,OTC Markets,S,Equity
+BWB,"Bridgewater Bancshares, Inc.",NCM,NASDAQ,S,Equity
+BX,The Blackstone Group Inc.,NYQ,NYSE,S,Equity
+BXMT,"Blackstone Mortgage Trust, Inc.",NYQ,NYSE,S,Equity
+BXRX,"Baudax Bio, Inc.",NCM,NASDAQ,S,Equity
+BXC,BlueLinx Holdings Inc.,NYQ,NYSE,S,Equity
+BXG,Bluegreen Vacations Corporation,NYS,NYSE,S,Equity
+BXS,BancorpSouth Bank,NYQ,NYSE,S,Equity
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,NYQ,NYSE,S,Equity
+BXP-PB,"Boston Properties, Inc.",NYQ,NYSE,S,Equity
+BY,"Byline Bancorp, Inc.",NYS,NYSE,S,Equity
+BYND,"Beyond Meat, Inc.",NMS,NASDAQ,S,Equity
+BYDDF,BYD Company Limited,PNK,OTC Markets,S,Equity
+BYDDY,BYD Company Limited,PNK,OTC Markets,S,Equity
+BYSI,BeyondSpring Inc.,NGM,NASDAQ,S,Equity
+BYZN,Byzen Digital Inc.,PNK,OTC Markets,S,Equity
+BYM,BlackRock Municipal Income Quality Trust,NYQ,NYSE,S,Equity
+BYFC,Broadway Financial Corporation,NCM,NASDAQ,S,Equity
+BZUN,Baozun Inc.,NAS,NASDAQ,S,Equity
+BZH,"Beazer Homes USA, Inc.",NYQ,NYSE,S,Equity
+BZQ,ProShares UltraShort MSCI Brazil Capped,PCX,NYSEArca,E,ETF
+BZM,BlackRock Maryland Municipal Bond Trust,NYQ,NYSE,S,Equity
+BZLFY,Bunzl plc,PNK,OTC Markets,S,Equity
+BZQIY,Bezeq The Israel Telecommunication Corporation Limited,PNK,OTC Markets,S,Equity
+BZLFF,Bunzl plc,PNK,OTC Markets,S,Equity
+BZRD,"Blubuzzard, Inc.",PNK,OTC Markets,S,Equity
+BZDLF,Kincora Copper Limited,PNK,OTC Markets,S,Equity
+BZLYF,Beazley plc,PNK,OTC Markets,S,Equity
+^B15BDRD,Dow Jones BRIC Brazil 15 DR Ind,DJI,Dow Jones,I,Index
+^B15BDRCN,Dow Jones BRIC Brazil 15 DR Cap,DJI,Dow Jones,I,Index
+^B15IDRDT,Dow Jones BRIC India 15 DR Tota,DJI,Dow Jones,I,Index
+^B15CDRD,Dow Jones BRIC China 15 DR Inde,DJI,Dow Jones,I,Index
+^B15CDRDT,Dow Jones BRIC China 15 DR Tota,DJI,Dow Jones,I,Index
+^B15BDRT,Dow Jones BRIC Brazil 15 DR Tot,DJI,Dow Jones,I,Index
+^B15IDRD,Dow Jones BRIC India 15 DR Inde,DJI,Dow Jones,I,Index
+^B15PI,OMX Baltic Telecommunications P,NIM,NASDAQ GIDS,I,Index
+^B15GI,OMX Baltic Telecommunications G,NIM,NASDAQ GIDS,I,Index
+^B10GI,OMX Baltic Technology GI,NIM,NASDAQ GIDS,I,Index
+BTDG,"B2Digital, Incorporated",PNK,OTC Markets,S,Equity
+^B20GI,OMX Baltic Health Care GI,NIM,NASDAQ GIDS,I,Index
+^B20PI,OMX Baltic Health Care PI,NIM,NASDAQ GIDS,I,Index
+BTOOY,B2W - Companhia Digital,PNK,OTC Markets,S,Equity
+BTO.TO,B2Gold Corp.,TOR,Toronto,S,Equity
+BTOW3.SA,B2W - Companhia Digital,SAO,Sao Paolo,S,Equity
+B2H.OL,B2Holding ASA,OSL,Oslo,S,Equity
+B2WP.F,Borr Drilling Limited,FRA,Frankfurt,S,Equity
+B2BSOFT.BO,B2B Software Technologies Limited,YHD,Industry,S,Equity
+^B35PI,OMX Baltic Real Estate PI,NIM,NASDAQ GIDS,I,Index
+^B30GI,OMX Baltic Financials GI,NIM,NASDAQ GIDS,I,Index
+^B35GI,OMX Baltic Real Estate GI,NIM,NASDAQ GIDS,I,Index
+^B30PI,OMX Baltic Financials PI,NIM,NASDAQ GIDS,I,Index
+^B3020PI,OMX Baltic Financial Services P,NIM,NASDAQ GIDS,I,Index
+^B3020GI,OMX Baltic Financial Services G,NIM,NASDAQ GIDS,I,Index
+^B3010PI,OMX Baltic Banks PI,NIM,NASDAQ GIDS,I,Index
+^B3010GI,OMX Baltic Banks GI,NIM,NASDAQ GIDS,I,Index
+B3SA3.SA,"B3 S.A. - Brasil, Bolsa, Balcão",SAO,Sao Paolo,S,Equity
+B3F7.MU,Blackrock Global Funds - BGF Next Generation Technology Fund,MUN,Munich,E,ETF
+^B400T,Barron's 400 Index (Total Retur,NYS,NYSE,I,Index
+^B400,Barron's 400 Index,NYS,NYSE,I,Index
+^B40GI,OMX Baltic Consumer Discretiona,NIM,NASDAQ GIDS,I,Index
+^B45GI,OMX Baltic Consumer Staples GI,NIM,NASDAQ GIDS,I,Index
+^B45PI,OMX Baltic Consumer Staples PI,NIM,NASDAQ GIDS,I,Index
+^B4040GI,OMX Baltic Retail GI,NIM,NASDAQ GIDS,I,Index
+^B4030GI,OMX Baltic Media GI,NIM,NASDAQ GIDS,I,Index
+^B4050PI,OMX Baltic Travel and Leisure P,NIM,NASDAQ GIDS,I,Index
+^B4020GI,OMX Baltic Consumer Products an,NIM,NASDAQ GIDS,I,Index
+^B4020PI,OMX Baltic Consumer Products an,NIM,NASDAQ GIDS,I,Index
+^B50RUD,Dow Jones BRIC Russia 5 Index (,DJI,Dow Jones,I,Index
+^B50DRE,Dow Jones BRIC 50 DR Index (EUR,DJI,Dow Jones,I,Index
+^B50CND,Dow Jones BRIC China 15 Index (,DJI,Dow Jones,I,Index
+^B50RUE,Dow Jones BRIC Russia 5 Index (,DJI,Dow Jones,I,Index
+^B50INCDN,Dow Jones BRIC India 15 Capped ,DJI,Dow Jones,I,Index
+^B5RDRD,Dow Jones BRIC Russia 5 DR Inde,DJI,Dow Jones,I,Index
+^B50CNE,Dow Jones BRIC China 15 Index (,DJI,Dow Jones,I,Index
+^B50INE,Dow Jones BRIC India 15 Index (,DJI,Dow Jones,I,Index
+^B50BRE,Dow Jones BRIC Brazil 15 Index ,DJI,Dow Jones,I,Index
+^B5RDRDT,Dow Jones BRIC Russia 5 DR Tota,DJI,Dow Jones,I,Index
+^B65PI,OMX Baltic Utilities PI,NIM,NASDAQ GIDS,I,Index
+^B65GI,OMX Baltic Utilities GI,NIM,NASDAQ GIDS,I,Index
+B61.SI,Bukit Sembawang Estates Limited,SES,Singapore,S,Equity
+B6K2.MU,BEARING LITHIUM,MUN,Munich,S,Equity
+B6E.MU,SWEDISH ORPHAN BIOVIT.SK1,MUN,Munich,S,Equity
+B6R.BE,FIREFLY RES LTD,BER,Berlin,S,Equity
+B6G.F,Bega Cheese Limited,FRA,Frankfurt,S,Equity
+B6S.SG,Britvic plc,STU,Stuttgart,S,Equity
+B6S.MU,"BRITVIC PLC  LS-,20",MUN,Munich,S,Equity
+B6S.F,Britvic plc,FRA,Frankfurt,S,Equity
+B73.SI,Global Investments Limited,SES,Singapore,S,Equity
+B7S.BE,"BROOKDALE SR LVG  DL -,01",BER,Berlin,S,Equity
+B7J.DE,SRV Yhtiöt Oyj,GER,XETRA,S,Equity
+B7U.F,Galiano Gold Inc.,FRA,Frankfurt,S,Equity
+B7O.SG,Citic Telecom Intl Hldgs Ltd. R,STU,Stuttgart,S,Equity
+B7C.SG,D'Amico International ShippingA,STU,Stuttgart,S,Equity
+B7Y.F,Byotrol plc,FRA,Frankfurt,S,Equity
+B7LM.MU,Brigadier Gold Limited,MUN,Munich,S,Equity
+B7A.SG,Banca Generali S.p.A. Azioni no,STU,Stuttgart,S,Equity
+B7Z.F,Arribatec Solutions ASA,FRA,Frankfurt,S,Equity
+B8F.DE,Biofrontera AG,YHD,Industry,S,Equity
+B8A.DE,BAVARIA Industries Group AG,YHD,Industry,S,Equity
+B8Y.BE,BOSS ENERGY LTD.,BER,Berlin,S,Equity
+B8F.SG,Biofrontera AG Namens-Aktien o.,STU,Stuttgart,S,Equity
+B8D.BE,BOART LONGYEAR GROUP,BER,Berlin,S,Equity
+B85A.BE,LONG TERM VALUE,BER,Berlin,E,ETF
+B8Z.F,Jade Power Trust,FRA,Frankfurt,E,ETF
+B8O.F,Yangzijiang Shipbuilding (Holdings) Ltd.,FRA,Frankfurt,S,Equity
+B8F.HM,BIOFRONTERA AG NA O.N.,HAM,Hamburg,S,Equity
+B8F.F,Biofrontera AG,FRA,Frankfurt,S,Equity
+B9Y.SG,Big Yellow Group PLC Registered,STU,Stuttgart,S,Equity
+B9PA.BE,"NOVABAY PHARMAC.  DL-,01",BER,Berlin,S,Equity
+B9B.F,BHB Brauholding Bayern-Mitte AG,FRA,Frankfurt,S,Equity
+B9Y.F,Big Yellow Group Plc,FRA,Frankfurt,S,Equity
+B9Y.BE,"BIG YELLOW GROUP  LS 0,10",BER,Berlin,S,Equity
+B9V.HM,Bavaria Venture Capital & Trade AG,HAM,Hamburg,S,Equity
+B9S.SI,CosmoSteel Holdings Limited,SES,Singapore,S,Equity
+B9S.F,Blackstone Minerals Limited,FRA,Frankfurt,S,Equity
+B9O2.F,Serabi Gold plc,FRA,Frankfurt,S,Equity
+B9C.F,Balco Group AB,FRA,Frankfurt,S,Equity
+RILY,"B. Riley Financial, Inc.",NGM,NASDAQ,S,Equity
+RILYZ,"B. Riley Financial, Inc. SR NT 27",NGM,NASDAQ,S,Equity
+BOSC,B.O.S. Better Online Solutions Ltd.,NCM,NASDAQ,S,Equity
+RILYG,"B. Riley Financial, Inc. SR NT 7.25% 27",NGM,NASDAQ,S,Equity
+RILYM,"B. Riley Financial, Inc. - 6.37",NGM,NASDAQ,S,Equity
+RILYN,"B. Riley Financial, Inc. - 6.50",NGM,NASDAQ,S,Equity
+RILYI,"B. Riley Financial, Inc. - 6.87",NGM,NASDAQ,E,ETF
+CAP-UN,Capitol Investment Corp. V,NYS,NYSE,S,Equity
+CAHC,CA Healthcare Acquisition Corp.,NAS,NASDAQ,S,Equity
+CTAQW,Carney Technology Acquisition Corp. II,NCM,NASDAQ,S,Equity
+CAHCU,CA Healthcare Acquisition Corp.,NAS,NASDAQ,S,Equity
+CAHCW,CA Healthcare Acquisition Corp.,NCM,NASDAQ,S,Equity
+CTAQ,Carney Technology Acquisition Corp. II,NCM,NASDAQ,S,Equity
+CTAQU,Carney Technology Acquisition Corp. II,NCM,NASDAQ,S,Equity
+GLBLU,Cartesian Growth Corporation,NCM,NASDAQ,S,Equity
+CAS'U,Cascade Acquisition Corp,NYS,NYSE,S,Equity
+CB,Chubb Limited,NYQ,NYSE,S,Equity
+CBAHU,"CBRE Acquisition Holdings, Inc.",NYS,NYSE,S,Equity
+^VIX,CBOE Volatility Index,WCB,Chicago Board Options Exchange,I,Index
+^TNX,CBOE Interest Rate 10 Year T No,NYB,New York Board of Trade,I,Index
+CBRL,"Cracker Barrel Old Country Store, Inc.",NMS,NASDAQ,S,Equity
+CBWTF,Auxly Cannabis Group Inc.,PNK,OTC Markets,S,Equity
+CBRE,"CBRE Group, Inc.",NYQ,NYSE,S,Equity
+CBOE,"Cboe Global Markets, Inc.",NMS,NASDAQ,S,Equity
+CBLI,"Cleveland BioLabs, Inc.",NCM,NASDAQ,S,Equity
+CC,The Chemours Company,NYQ,NYSE,S,Equity
+CCV-UN,Churchill Capital Corp V,NYS,NYSE,S,Equity
+CCVIU,Churchill Capital Corp VI,NYS,NYSE,S,Equity
+CCL,Carnival Corporation & plc,NYQ,NYSE,S,Equity
+CCI,Crown Castle International Corp. (REIT),NYQ,NYSE,S,Equity
+CCJ,Cameco Corporation,NYQ,NYSE,S,Equity
+CCO,"Clear Channel Outdoor Holdings, Inc.",NYQ,NYSE,S,Equity
+CCXI,"ChemoCentryx, Inc.",NMS,NASDAQ,S,Equity
+CD,Chindata Group Holdings Limited,NMS,NASDAQ,S,Equity
+CDAK,"Codiak BioSciences, Inc.",NGM,NASDAQ,S,Equity
+CDE,"Coeur Mining, Inc.",NYQ,NYSE,S,Equity
+CDR,"Cedar Realty Trust, Inc.",NYQ,NYSE,S,Equity
+CDXC,ChromaDex Corporation,NCM,NASDAQ,S,Equity
+CDEV,"Centennial Resource Development, Inc.",NCM,NASDAQ,S,Equity
+CDLX,"Cardlytics, Inc.",NGM,NASDAQ,S,Equity
+CDNS,"Cadence Design Systems, Inc.",NMS,NASDAQ,S,Equity
+CDMO,"Avid Bioservices, Inc.",NCM,NASDAQ,S,Equity
+CDW,CDW Corporation,NMS,NASDAQ,S,Equity

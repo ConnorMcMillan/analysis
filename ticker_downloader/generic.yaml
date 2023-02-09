@@ -1,0 +1,1130 @@
+- {Exchange: NYQ, Name: Barnes Group Inc., Ticker: B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: The Boeing Company, Ticker: BA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: 'Biomerica, Inc.', Ticker: BMRA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Bluescape Opportunities Acquisition Corp., Ticker: BOACU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Bioventus Inc., Ticker: BVS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. 6.00% Senior Notes Due 2028', Ticker: RILYT,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'BigCommerce Holdings, Inc.', Ticker: BIGC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'BioAtla, Inc.', Ticker: BCAB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Bespoke Capital Acquisition Corp., Ticker: BSPE, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Broadstone Net Lease, Inc.', Ticker: BNL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Citigroup Inc., Ticker: C, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: CureVac N.V., Ticker: CVAC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Corsair Gaming, Inc.', Ticker: CRSR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Calliditas Therapeutics AB (publ), Ticker: CALT, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Concord Acquisition Corp, Ticker: CND-UN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Crown PropTech Acquisitions, Ticker: CPTKU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'C4 Therapeutics, Inc.', Ticker: CCCC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Climate Real Impact Solutions II Acquisition Corp, Ticker: CLIMU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Cullinan Oncology, Inc.', Ticker: CGEM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Churchill Capital Corp VII, Ticker: CVIIU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Dominion Energy, Inc.', Ticker: D, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'DoorDash, Inc.', Ticker: DASH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'dMY Technology Group, Inc. III', Ticker: DMYIU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Delwinds Insurance Acquisition Corp., Ticker: DWINU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'Duckhorn Portfolio, Inc.', Ticker: NAPA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Datto Holding Corp., Ticker: MSP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: DHB Capital Corp., Ticker: DHBCU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Dune Acquisition Corporation, Ticker: DUNEW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Deep Lake Capital Acquisition Corp., Ticker: DLCAW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: DHC Acquisition Corp., Ticker: DHCAU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Eni S.p.A., Ticker: E, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Empowerment & Inclusion Capital I Corp., Ticker: EPWRU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Esm Acquisition Corp, Ticker: ESM-UN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Evo Acquisition Corp., Ticker: EVOJU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: European Sustainable Growth Acquisition Corp., Ticker: EUSGU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: EJF Acquisition Corp., Ticker: EJFAU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Environmental Impact Acquisition Corp., Ticker: ENVIW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Eargo, Inc.', Ticker: EAR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Edify Acquisition Corp., Ticker: EACU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: European Sustainable Growth Acquisition Corp., Ticker: EUSG,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Ford Motor Company, Ticker: F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Fusion Pharmaceuticals Inc., Ticker: FUSN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: '4D Molecular Therapeutics, Inc.', Ticker: FDMT, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Foghorn Therapeutics Inc., Ticker: FHTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: FG New America Acquisition Corp., Ticker: FGNAU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Forest Road Acquisition Corp., Ticker: FRX-UN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Forma Therapeutics Holdings, Inc.', Ticker: FMTX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Fusion Acquisition Corp. II, Ticker: FSNBU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'First High-School Education Group Co., Ltd.', Ticker: FHS,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Forest Road Acquisition Corp. II, Ticker: FRXBU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Genpact Limited, Ticker: G, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Gladstone Land Corporation, Ticker: LANDM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: GBS Inc., Ticker: GBS, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Galecto, Inc.', Ticker: GLTO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Global X Funds - Global X China Disruption ETF, Ticker: KEJI,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Generation Bio Co., Ticker: GBIO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Gemini Therapeutics, Inc.', Ticker: GMTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'GoHealth, Inc.', Ticker: GOCO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Graybug Vision, Inc.', Ticker: GRAY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Genetron Holdings Limited, Ticker: GTH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Hyatt Hotels Corporation, Ticker: H, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Harmony Biosciences Holdings, Inc.', Ticker: HRMY, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Hydrofarm Holdings Group, Inc.', Ticker: HYFM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Hayward Holdings, Inc.', Ticker: HAYW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Horizon Acquisition Corp II, Ticker: HZONU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Health Assurance Acquisition Corp., Ticker: HAACU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: H.I.G. Acquisition Corp., Ticker: HIGAU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Hycroft Mining Holding Corporation, Ticker: HYMCL, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: FTAC Hera Acquisition Corp., Ticker: HERAU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Home Point Capital Inc., Ticker: HMPT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Inhibrx, Inc.', Ticker: INBX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Inozyme Pharma, Inc.', Ticker: INZY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: InterPrivate III Financial Partners Inc., Ticker: IPVFU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Ivanhoe Capital Acquisition Corp., Ticker: IVANU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Inventiva S.A., Ticker: IVA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Inari Medical, Inc.', Ticker: NARI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'iTeos Therapeutics, Inc.', Ticker: ITOS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Investindustrial Acquisition Corp., Ticker: IIACU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: InterPrivate II Acquisition Corp., Ticker: IPVAU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Social Capital Hedosophia Holdings Corp. IV, Ticker: IPODU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Jacobs Engineering Group Inc., Ticker: J, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'JOANN, Inc. Common Stock', Ticker: JOAN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: JOFF Fintech Acquisition Corp., Ticker: JOFFU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Jack Creek Investment Corp., Ticker: JCIC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Jack Creek Investment Corp. Warrants, Ticker: JCICW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Jiya Acquisition Corp., Ticker: JYAC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Jack Creek Investment Corp., Ticker: JCICU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Jowell Global Ltd., Ticker: JWEL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 'Jupiter Wellness, Inc.', Ticker: JUPW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Direxion Daily Junior Gold Miners Index Bull 2X Shares, Ticker: JNUG,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Kellogg Company, Ticker: K, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Kymera Therapeutics, Inc.', Ticker: KYMR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Kensington Capital Acquisition Corp., Ticker: KCACU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Kingswood Acquisition Corp., Ticker: KWACU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Keros Therapeutics, Inc.', Ticker: KROS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: KE Holdings Inc., Ticker: BEKE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Kismet Acquisition Two Corp., Ticker: KAIIU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Kludein I Acquisition Corp., Ticker: INKA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Kismet Acquisition Three Corp., Ticker: KIIIU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Loews Corporation, Ticker: L, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'loanDepot, Inc.', Ticker: LDI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Landos Biopharma, Inc.', Ticker: LABP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: LIVE OAK ACQUISITION CORP, Ticker: LOAKU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Legend Biotech Corporation, Ticker: LEGN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Lyra Therapeutics, Inc.', Ticker: LYRA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Leslie''s, Inc.', Ticker: LESL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Lixiang Education Holding Co., Ltd.', Ticker: LXEH, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Live Oak Mobility Acquisition Corp., Ticker: LOKMU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Macy''s, Inc.', Ticker: M, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Microsoft Corporation, Ticker: MSFT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Metacrine, Inc.', Ticker: MTCR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 908 Devices Inc., Ticker: MASS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Motive Capital Corp, Ticker: MOTVU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: MYT Netherlands Parent B.V., Ticker: MYTE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Mission Advancement Corp., Ticker: MACCU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: MeaTech 3D Ltd. American Depositary Shares, Ticker: MITC,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Marquee Raine Acquisition Corp., Ticker: MRAC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Nano-X Imaging Ltd., Ticker: NNOX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: TCW Special Purpose Acquisition Corp., Ticker: NAPAU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Newtek Business Services Corp. 5.50% Notes Due 2026, Ticker: NEWTZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: NeoGames S.A., Ticker: NGMS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'NexImmune, Inc.', Ticker: NEXI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Nkarta, Inc.', Ticker: NKTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Nurix Therapeutics, Inc.', Ticker: NRIX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Northern Genesis Acquisition Corp. II, Ticker: NGABU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Realty Income Corporation, Ticker: O, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Olema Pharmaceuticals, Inc.', Ticker: OLMA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'ON24, Inc.', Ticker: ONTF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Oncorus, Inc.', Ticker: ONCR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Oscar Health, Inc.', Ticker: OSCR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Orion Acquisition Corp., Ticker: OHPAU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: OCA Acquisition Corp., Ticker: OCAXU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Orphazyme A/S, Ticker: ORPH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: OCA Acquisition Corp., Ticker: OCAXW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Oyster Enterprises Acquisition Corp. Class A Common Stock,
+  Ticker: OSTR, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: ProShares Ultra Nasdaq Cybersecurity, Ticker: UCYB, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Praxis Precision Medicines, Inc.', Ticker: PRAX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Presidio Property Trust, Inc.', Ticker: SQFT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Peridot Acquisition Corp. II, Ticker: PDOTU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: PolyPid Ltd., Ticker: PYPD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'PubMatic, Inc.', Ticker: PUBM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Pliant Therapeutics, Inc.', Ticker: PLRX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Periphas Capital Partnering Corp, Ticker: PCPCU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: ProShares Ultra Cloud Computing, Ticker: SKYU, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Pine Island Acquisition Corp., Ticker: PIPPU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Qilian International Holding Group Limited, Ticker: QLI, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Queen's Gambit Growth Capital, Ticker: GMBTU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Queen's Gambit Growth Capital Warrant, Ticker: GMBTW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Invesco QQQ Trust, Ticker: QQQ, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: QUALCOMM Incorporated, Ticker: QCOM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Restaurant Brands International Inc., Ticker: QSR, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Quest Diagnostics Incorporated, Ticker: DGX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Qudian Inc., Ticker: QD, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Qorvo, Inc.', Ticker: QRVO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PCX, Name: ProShares Ultra QQQ, Ticker: QLD, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSEArca}
+- {Exchange: NYQ, Name: 'Ryder System, Inc.', Ticker: R, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Relay Therapeutics, Inc.', Ticker: RLAY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Roblox Corporation, Ticker: RBLX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Repare Therapeutics Inc., Ticker: RPTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Rice Acquisition Corp., Ticker: RICEU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Reinvent Technology Partners Z, Ticker: RTPZU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Root, Inc.', Ticker: ROOT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: RMG Acquisition Corporation II, Ticker: RMGB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: 'Prometheus Biosciences, Inc. Common Stock', Ticker: RXDX,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: SPDR S&P 500 ETF Trust, Ticker: SPY, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'Signify Health, Inc.', Ticker: SGFY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Sigilon Therapeutics, Inc.', Ticker: SGTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Supernova Partners Acquisition Co II, Ltd.', Ticker: SNIIU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Social Leverage Acquisition Corp I, Ticker: SLACU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Shattuck Labs, Inc.', Ticker: STTK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Scopus BioPharma Inc., Ticker: SCPS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Sensei Biotherapeutics, Inc.', Ticker: SNSE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Shoals Technologies Group, Inc.', Ticker: SHLS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: AT&T Inc., Ticker: T, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: 'Tesla, Inc.', Ticker: TSLA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Talis Biomedical Corporation, Ticker: TLIS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: TPG Pace Beneficial Finance Corp., Ticker: TPGYU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Taysha Gene Therapies, Inc.', Ticker: TSHA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Tarsus Pharmaceuticals, Inc.', Ticker: TARS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: TELUS International (Cda) Inc., Ticker: TIXT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: TLG Acquisition One Corp., Ticker: TLGA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Tishman Speyer Innovation Corp. II, Ticker: TSIBU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Unity Software Inc., Ticker: U, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Upstart Holdings, Inc.', Ticker: UPST, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Uber Technologies, Inc.', Ticker: UBER, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'United Airlines Holdings, Inc.', Ticker: UAL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: ProShares Ultra VIX Short-Term Futures ETF, Ticker: UVXY,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: PCX, Name: 'United States Oil Fund, LP', Ticker: USO, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSEArca}
+- {Exchange: NYQ, Name: 'United Parcel Service, Inc.', Ticker: UPS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: United States Steel Corporation, Ticker: X, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: ProShares Ultra Bloomberg Crude Oil, Ticker: UCO, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Visa Inc., Ticker: V, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: VINE ENERGY INC., Ticker: VEI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Vertex, Inc.', Ticker: VERX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Vy Global Growth, Ticker: VYGGU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: 'Vallon Pharmaceuticals, Inc.', Ticker: VLON, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: VanEck Vectors ETF Trust - VanEck Vectors Social Sentiment
+    ETF, Ticker: BUZZ, Type: E, TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Ventoux CCM Acquisition Corp., Ticker: VTAQW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 7GC & Co. Holdings Inc., Ticker: VIIAW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: VPC Impact Acquisition Holdings II, Ticker: VPCBU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Virtuoso Acquisition Corp. Class A Common Stock, Ticker: VOSO,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Wayfair Inc., Ticker: W, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: WiMi Hologram Cloud Inc., Ticker: WIMI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: Warner Music Group Corp., Ticker: WMG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: WisdomTree Cybersecurity Fund, Ticker: WCBR, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Warrior Technologies Acquisition Co, Ticker: WARRU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Waldencast Acquisition Corp., Ticker: WALDU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Wunong Net Technology Company Limited, Ticker: WNW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: 'Washington Federal, Inc. Depositary Shares', Ticker: WAFDP,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: The Walt Disney Company, Ticker: DIS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Waitr Holdings Inc., Ticker: WTRH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: XPeng Inc., Ticker: XPEV, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: Power & Digital Infrastructure Acquisition Corp., Ticker: XPDIU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Exxon Mobil Corporation, Ticker: XOM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PCX, Name: Energy Select Sector SPDR Fund, Ticker: XLE, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSEArca}
+- {Exchange: NYQ, Name: Technology Select Sector SPDR Fund, Ticker: XLK, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Financial Select Sector SPDR Fund, Ticker: XLF, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: PCX, Name: SPDR S&P Oil & Gas Exploration & Production ETF, Ticker: XOP,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NYSEArca}
+- {Exchange: NYQ, Name: Utilities Select Sector SPDR Fund, Ticker: XLU, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Alleghany Corporation, Ticker: Y, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 17 Education & Technology Group Inc., Ticker: YQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Yatsen Holding Limited, Ticker: YSG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Yalla Group Limited, Ticker: YALA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Yellowstone Acquisition Company, Ticker: YSACU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: MingZhu Logistics Holdings Limited, Ticker: YGMZ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Yamana Gold Inc., Ticker: AUY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Yum! Brands, Inc.', Ticker: YUM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: YPF Sociedad Anónima, Ticker: YPF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: JOYY Inc., Ticker: YY, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: 'Zillow Group, Inc.', Ticker: Z, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Zentalis Pharmaceuticals, Inc.', Ticker: ZNTL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: ZIM Integrated Shipping Services Ltd., Ticker: ZIM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Zanite Acquisition Corp., Ticker: ZNTEU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Z-Work Acquisition Corp., Ticker: ZWRKU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Zoom Video Communications, Inc.', Ticker: ZM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Zscaler, Inc.', Ticker: ZS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Zynga Inc., Ticker: ZNGA, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Zosano Pharma Corporation, Ticker: ZSAN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Baosheng Media Group Holdings Limited, Ticker: BAOS, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Bank of America Corporation, Ticker: BAC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Alibaba Group Holding Limited, Ticker: BABA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Barrick Gold Corporation, Ticker: GOLD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Baidu, Inc.', Ticker: BIDU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Bayer Aktiengesellschaft, Ticker: BAYRY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NGM, Name: Ballard Power Systems Inc., Ticker: BLDP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Bausch Health Companies Inc., Ticker: BHC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BlackBerry Limited, Ticker: BB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Bed Bath & Beyond Inc., Ticker: BBBY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Best Buy Co., Inc.', Ticker: BBY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: TOR, Name: BBTV Holdings Inc., Ticker: BBTV.TO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Toronto}
+- {Exchange: NYQ, Name: 'Banco Bilbao Vizcaya Argentaria, S.A.', Ticker: BBVA, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'BBQ Holdings, Inc.', Ticker: BBQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: BlackRock Taxable Municipal Bond Trust, Ticker: BBN, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Virtus LifeSci Biotech Clinical Trials ETF, Ticker: BBC, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Banco Bradesco S.A., Ticker: BBD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brunswick Corporation, Ticker: BC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: BriaCell Therapeutics Corp., Ticker: BCTXW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Big Cypress Acquisition Corp., Ticker: BCYPW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Brookline Capital Acquisition Corp., Ticker: BCACW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Brookline Capital Acquisition Corp., Ticker: BCACU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: BriaCell Therapeutics Corp., Ticker: BCTX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: BCLS Acquisition Corp., Ticker: BLSA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Big Cypress Acquisition Corp., Ticker: BCYPU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'BioCryst Pharmaceuticals, Inc.', Ticker: BCRX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Biodesix, Inc.', Ticker: BDSX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Becton, Dickinson and Company', Ticker: BDX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: 'BioDelivery Sciences International, Inc.', Ticker: BDSI,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Bombardier Inc., Ticker: BDRBF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: BlackRock Enhanced Equity Dividend Trust, Ticker: BDJ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Belden Inc., Ticker: BDC, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brandywine Realty Trust, Ticker: BDN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'Black Diamond Therapeutics, Inc.', Ticker: BDTX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Breakwave Dry Bulk Shipping ETF, Ticker: BDRY, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: ASE, Name: 'Flanigan''s Enterprises, Inc.', Ticker: BDL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE MKT}
+- {Exchange: NYS, Name: Bloom Energy Corporation, Ticker: BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Benessere Capital Acquisition Corp., Ticker: BENEW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Benessere Capital Acquisition Corp., Ticker: BENE, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Better World Acquisition Corp., Ticker: BWACU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Benessere Capital Acquisition Corp., Ticker: BENER, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Benessere Capital Acquisition Corp., Ticker: BENEU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Bentley Systems, Incorporated', Ticker: BSY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Berkshire Hathaway Inc., Ticker: BRK-B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Bright Horizons Family Solutions Inc., Ticker: BFAM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Brown-Forman Corporation, Ticker: BF-B, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Business First Bancshares, Inc.', Ticker: BFST, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Berkshire Focus Fund, Ticker: BFOCX, Type: M, TypeDisplay: Fund,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Saul Centers, Inc.', Ticker: BFS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BlackRock Municipal Income Trust, Ticker: BFK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Bank First Corporation, Ticker: BFC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Brown-Forman Corporation, Ticker: BF-A, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BlackRock California Municipal Income Trust, Ticker: BFZ,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: BankFinancial Corporation, Ticker: BFIN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Bunge Limited, Ticker: BG, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'B&G Foods, Inc.', Ticker: BGS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'BGC Partners, Inc.', Ticker: BGCP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Big 5 Sporting Goods Corporation, Ticker: BGFV, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'BeiGene, Ltd.', Ticker: BGNE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BlackRock Energy and Resources Trust, Ticker: BGR, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'BGSF, Inc.', Ticker: BGSF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Blackstone/GSO Strategic Credit Fund, Ticker: BGB, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: American Century Global Gold Fund Investor Class, Ticker: BGEIX,
+  Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Biglari Holdings Inc., Ticker: BH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Bull Horn Holdings Corp., Ticker: BHSEU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BHP Group, Ticker: BHP, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Brighthouse Financial, Inc.', Ticker: BHF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Braemar Hotels & Resorts, Inc.', Ticker: BHR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Biohaven Pharmaceutical Holding Company Ltd., Ticker: BHVN,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BHP Group, Ticker: BBL, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Benchmark Electronics, Inc.', Ticker: BHE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Biophytis SA, Ticker: BPTS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Biotech Acquisition Company, Ticker: BIOTU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: BioNTech SE, Ticker: BNTX, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'BJ''s Wholesale Club Holdings, Inc.', Ticker: BJ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'BJ''s Restaurants, Inc.', Ticker: BJRI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: VanEck Vectors Gaming ETF, Ticker: BJK, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Beijing Enterprises Water Group Limited, Ticker: BJWTF, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: Innovator S&P 500 Buffer ETF – July, Ticker: BJUL, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Beijing Capital International Airport Company Limited, Ticker: BJCHF,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: Innovator S&P 500 Buffer ETF January, Ticker: BJAN, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: Aberdeen Global High Income Fund Class A, Ticker: BJBHX, Type: M,
+  TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Innovator S&P 500 Buffer ETF - June, Ticker: BJUN, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: The Bank of New York Mellon Corporation, Ticker: BK, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Booking Holdings Inc., Ticker: BKNG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Baker Hughes Company, Ticker: BKR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: ASX, Name: Booktopia Group Limited, Ticker: BKG.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NGM, Name: BlackRock Capital Investment Corporation, Ticker: BKCC, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: 'BIO-key International, Inc.', Ticker: BKYI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: Brookdale Senior Living Inc., Ticker: BKD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Invesco Senior Loan ETF, Ticker: BKLN, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Black Hills Corporation, Ticker: BKH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: 'BlackLine, Inc.', Ticker: BL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Blue Water Acquisition Corp., Ticker: BLUWW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Bright Lights Acquisition Corp., Ticker: BLTS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Blue Water Acquisition Corp., Ticker: BLUWU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Blue Water Acquisition Corp., Ticker: BLUW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Bright Lights Acquisition Corp., Ticker: BLTSW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Bright Lights Acquisition Corp., Ticker: BLTSU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'Blue Apron Holdings, Inc.', Ticker: APRN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: B. Riley Principal Merger Corp. II, Ticker: BMRGU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Bumble Inc., Ticker: BMBL, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Bristol-Myers Squibb Company, Ticker: BMY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Bank of Montreal, Ticker: BMO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: SAO, Name: Bemobi Mobile Tech S.A., Ticker: BMOB3.SA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Sao Paolo}
+- {Exchange: NMS, Name: BioMarin Pharmaceutical Inc., Ticker: BMRN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Banco Macro S.A., Ticker: BMA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Bayerische Motoren Werke Aktiengesellschaft, Ticker: BMWYY,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: Bank of America Corporation, Ticker: BML-PG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Vanguard Total Bond Market Index Fund ETF Shares, Ticker: BND,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Bionano Genomics, Inc.', Ticker: BNGO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: The Bank of Nova Scotia, Ticker: BNS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'United States Brent Oil Fund, LP', Ticker: BNO, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Vanguard Total International Bond Index Fund ETF Shares, Ticker: BNDX,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Benefitfocus, Inc.', Ticker: BNFT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Barnes & Noble Education, Inc.', Ticker: BNED, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Benitec Biopharma Inc., Ticker: BNTC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Boqii Holding Limited, Ticker: BQ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Bolt Biotherapeutics, Inc.', Ticker: BOLT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Boyd Gaming Corporation, Ticker: BYD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Boston Scientific Corporation, Ticker: BSX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Box, Inc.', Ticker: BOX, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Boston Properties, Inc.', Ticker: BXP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BP p.l.c., Ticker: BP, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: Brookfield Property Partners L.P., Ticker: BPY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: ASX, Name: BPM Minerals Limited, Ticker: BPM.AX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Australian}
+- {Exchange: NYQ, Name: BP Prudhoe Bay Royalty Trust, Ticker: BPT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: 'Bio-Path Holdings, Inc.', Ticker: BPTH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Brookfield Property REIT Inc., Ticker: BPYU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Popular, Inc.', Ticker: BPOP, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Blueprint Medicines Corporation, Ticker: BPMC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Bright Rock Mid Cap Growth Fund Institutional Class, Ticker: BQMGX,
+  Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Bright Rock Quality Large Cap Fund Institutional Class, Ticker: BQLCX,
+  Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Trust for Professional Managers - Bright Rock Quality Large
+    Cap Fund, Ticker: BQLIX, Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: BioQuest Corp., Ticker: BQST, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: BQE Water Inc., Ticker: BTQNF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NAS, Name: Trust for Professional Managers - Bright Rock Mid Cap Growth
+    Fund, Ticker: BQMIX, Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Banque Cantonale Vaudoise, Ticker: BQCNF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: Boss Resources Limited, Ticker: BQSSF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: 'Broadridge Financial Solutions, Inc.', Ticker: BR, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: B. Riley Principal 150 Merger Corp., Ticker: BRPMU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Bridgetown 2 Holdings Limited, Ticker: BTNB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Black Stone Minerals, L.P.', Ticker: BSM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Vanguard Short-Term Bond Index Fund ETF Shares, Ticker: BSV,
+  Type: E, TypeDisplay: ETF, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: 'BioSig Technologies, Inc.', Ticker: BSGM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYS, Name: BlackRock Science and Technology Trust, Ticker: BST, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Banco Santander México, S.A., Institución de Banca Múltiple,
+    Grupo Financiero Santander México', Ticker: BSMX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BlackRock Science and Technology Trust II, Ticker: BSTZ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Bassett Furniture Industries, Incorporated', Ticker: BSET,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Bridgetown Holdings Limited, Ticker: BTWNU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Burgundy Technology Acquisition Corporation, Ticker: BTAQU,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: British American Tobacco p.l.c., Ticker: BTI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: B2Gold Corp., Ticker: BTG, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: 'BioXcel Therapeutics, Inc.', Ticker: BTAI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Peabody Energy Corporation, Ticker: BTU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: 'Bitcoin Services, Inc.', Ticker: BTSC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: John Hancock Financial Opportunities Fund, Ticker: BTO, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BlackRock Credit Allocation Income Trust, Ticker: BTZ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Anheuser-Busch InBev SA/NV, Ticker: BUD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'Burlington Stores, Inc.', Ticker: BURL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Builders FirstSource, Inc.', Ticker: BLDR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'The Buckle, Inc.', Ticker: BKE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: First Busey Corporation, Ticker: BUSE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: 'BrightView Holdings, Inc.', Ticker: BV, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: BiondVax Pharmaceuticals Ltd., Ticker: BVXV, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: Compañía de Minas Buenaventura S.A.A., Ticker: BVN, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: BevCanna Enterprises Inc., Ticker: BVNNF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: 'Bravatek Solutions, Inc.', Ticker: BVTK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NIM, Name: BVP Nasdaq Emerging Cloud Index, Ticker: ^EMCLOUD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NAS, Name: William Blair Small Cap Value Fund Class I, Ticker: BVDIX,
+  Type: M, TypeDisplay: Fund, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: 'BV Financial, Inc.', Ticker: BVFL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: 'Babcock & Wilcox Enterprises, Inc.', Ticker: BW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: OSL, Name: BW Ideol AS, Ticker: BWIDL.OL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Oslo}
+- {Exchange: NYQ, Name: BorgWarner Inc., Ticker: BWA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'BWX Technologies, Inc.', Ticker: BWXT, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NGM, Name: Brainsway Ltd., Ticker: BWAY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 'Broadwind, Inc.', Ticker: BWEN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: 'Bakken Water Transfer Services, Inc.', Ticker: BWTX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: OTC Markets}
+- {Exchange: NCM, Name: 'Bridgewater Bancshares, Inc.', Ticker: BWB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: The Blackstone Group Inc., Ticker: BX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Blackstone Mortgage Trust, Inc.', Ticker: BXMT, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: 'Baudax Bio, Inc.', Ticker: BXRX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: BlueLinx Holdings Inc., Ticker: BXC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Bluegreen Vacations Corporation, Ticker: BXG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: BancorpSouth Bank, Ticker: BXS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Nuveen S&P 500 Buy-Write Income Fund, Ticker: BXMX, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Boston Properties, Inc.', Ticker: BXP-PB, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'Byline Bancorp, Inc.', Ticker: BY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Beyond Meat, Inc.', Ticker: BYND, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: BYD Company Limited, Ticker: BYDDF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: BYD Company Limited, Ticker: BYDDY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NGM, Name: BeyondSpring Inc., Ticker: BYSI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Byzen Digital Inc., Ticker: BYZN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: BlackRock Municipal Income Quality Trust, Ticker: BYM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: Broadway Financial Corporation, Ticker: BYFC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: Baozun Inc., Ticker: BZUN, Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Beazer Homes USA, Inc.', Ticker: BZH, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: PCX, Name: ProShares UltraShort MSCI Brazil Capped, Ticker: BZQ, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NYSEArca}
+- {Exchange: NYQ, Name: BlackRock Maryland Municipal Bond Trust, Ticker: BZM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: PNK, Name: Bunzl plc, Ticker: BZLFY, Type: S, TypeDisplay: Equity, exchangeDisplay: OTC
+    Markets}
+- {Exchange: PNK, Name: Bezeq The Israel Telecommunication Corporation Limited, Ticker: BZQIY,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: Bunzl plc, Ticker: BZLFF, Type: S, TypeDisplay: Equity, exchangeDisplay: OTC
+    Markets}
+- {Exchange: PNK, Name: 'Blubuzzard, Inc.', Ticker: BZRD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: Kincora Copper Limited, Ticker: BZDLF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: PNK, Name: Beazley plc, Ticker: BZLYF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: DJI, Name: Dow Jones BRIC Brazil 15 DR Ind, Ticker: ^B15BDRD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC Brazil 15 DR Cap, Ticker: ^B15BDRCN, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC India 15 DR Tota, Ticker: ^B15IDRDT, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC China 15 DR Inde, Ticker: ^B15CDRD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC China 15 DR Tota, Ticker: ^B15CDRDT, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC Brazil 15 DR Tot, Ticker: ^B15BDRT, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC India 15 DR Inde, Ticker: ^B15IDRD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: NIM, Name: OMX Baltic Telecommunications P, Ticker: ^B15PI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Telecommunications G, Ticker: ^B15GI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Technology GI, Ticker: ^B10GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: PNK, Name: 'B2Digital, Incorporated', Ticker: BTDG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NIM, Name: OMX Baltic Health Care GI, Ticker: ^B20GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Health Care PI, Ticker: ^B20PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: PNK, Name: B2W - Companhia Digital, Ticker: BTOOY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: TOR, Name: B2Gold Corp., Ticker: BTO.TO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Toronto}
+- {Exchange: SAO, Name: B2W - Companhia Digital, Ticker: BTOW3.SA, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Sao Paolo}
+- {Exchange: OSL, Name: B2Holding ASA, Ticker: B2H.OL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Oslo}
+- {Exchange: FRA, Name: Borr Drilling Limited, Ticker: B2WP.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: YHD, Name: B2B Software Technologies Limited, Ticker: B2BSOFT.BO, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Industry}
+- {Exchange: NIM, Name: OMX Baltic Real Estate PI, Ticker: ^B35PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Financials GI, Ticker: ^B30GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Real Estate GI, Ticker: ^B35GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Financials PI, Ticker: ^B30PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Financial Services P, Ticker: ^B3020PI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Financial Services G, Ticker: ^B3020GI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Banks PI, Ticker: ^B3010PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Banks GI, Ticker: ^B3010GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: SAO, Name: 'B3 S.A. - Brasil, Bolsa, Balcão', Ticker: B3SA3.SA, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Sao Paolo}
+- {Exchange: MUN, Name: Blackrock Global Funds - BGF Next Generation Technology Fund,
+  Ticker: B3F7.MU, Type: E, TypeDisplay: ETF, exchangeDisplay: Munich}
+- {Exchange: NYS, Name: Barron's 400 Index (Total Retur, Ticker: ^B400T, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Barron's 400 Index, Ticker: ^B400, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NYSE}
+- {Exchange: NIM, Name: OMX Baltic Consumer Discretiona, Ticker: ^B40GI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Consumer Staples GI, Ticker: ^B45GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Consumer Staples PI, Ticker: ^B45PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Retail GI, Ticker: ^B4040GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Media GI, Ticker: ^B4030GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Travel and Leisure P, Ticker: ^B4050PI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Consumer Products an, Ticker: ^B4020GI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Consumer Products an, Ticker: ^B4020PI, Type: I,
+  TypeDisplay: Index, exchangeDisplay: NASDAQ GIDS}
+- {Exchange: DJI, Name: Dow Jones BRIC Russia 5 Index (, Ticker: ^B50RUD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC 50 DR Index (EUR, Ticker: ^B50DRE, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC China 15 Index (, Ticker: ^B50CND, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC Russia 5 Index (, Ticker: ^B50RUE, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: 'Dow Jones BRIC India 15 Capped ', Ticker: ^B50INCDN, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC Russia 5 DR Inde, Ticker: ^B5RDRD, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC China 15 Index (, Ticker: ^B50CNE, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC India 15 Index (, Ticker: ^B50INE, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: 'Dow Jones BRIC Brazil 15 Index ', Ticker: ^B50BRE, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: DJI, Name: Dow Jones BRIC Russia 5 DR Tota, Ticker: ^B5RDRDT, Type: I,
+  TypeDisplay: Index, exchangeDisplay: Dow Jones}
+- {Exchange: NIM, Name: OMX Baltic Utilities PI, Ticker: ^B65PI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: NIM, Name: OMX Baltic Utilities GI, Ticker: ^B65GI, Type: I, TypeDisplay: Index,
+  exchangeDisplay: NASDAQ GIDS}
+- {Exchange: SES, Name: Bukit Sembawang Estates Limited, Ticker: B61.SI, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Singapore}
+- {Exchange: MUN, Name: BEARING LITHIUM, Ticker: B6K2.MU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Munich}
+- {Exchange: MUN, Name: SWEDISH ORPHAN BIOVIT.SK1, Ticker: B6E.MU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Munich}
+- {Exchange: BER, Name: FIREFLY RES LTD, Ticker: B6R.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: FRA, Name: Bega Cheese Limited, Ticker: B6G.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: STU, Name: Britvic plc, Ticker: B6S.SG, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Stuttgart}
+- {Exchange: MUN, Name: 'BRITVIC PLC  LS-,20', Ticker: B6S.MU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Munich}
+- {Exchange: FRA, Name: Britvic plc, Ticker: B6S.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: SES, Name: Global Investments Limited, Ticker: B73.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: BER, Name: 'BROOKDALE SR LVG  DL -,01', Ticker: B7S.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: GER, Name: SRV Yhtiöt Oyj, Ticker: B7J.DE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: XETRA}
+- {Exchange: FRA, Name: Galiano Gold Inc., Ticker: B7U.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: STU, Name: Citic Telecom Intl Hldgs Ltd. R, Ticker: B7O.SG, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Stuttgart}
+- {Exchange: STU, Name: D'Amico International ShippingA, Ticker: B7C.SG, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Stuttgart}
+- {Exchange: FRA, Name: Byotrol plc, Ticker: B7Y.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: MUN, Name: Brigadier Gold Limited, Ticker: B7LM.MU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Munich}
+- {Exchange: STU, Name: Banca Generali S.p.A. Azioni no, Ticker: B7A.SG, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Stuttgart}
+- {Exchange: FRA, Name: Arribatec Solutions ASA, Ticker: B7Z.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: YHD, Name: Biofrontera AG, Ticker: B8F.DE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Industry}
+- {Exchange: YHD, Name: BAVARIA Industries Group AG, Ticker: B8A.DE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Industry}
+- {Exchange: BER, Name: BOSS ENERGY LTD., Ticker: B8Y.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: STU, Name: Biofrontera AG Namens-Aktien o., Ticker: B8F.SG, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Stuttgart}
+- {Exchange: BER, Name: BOART LONGYEAR GROUP, Ticker: B8D.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: BER, Name: LONG TERM VALUE, Ticker: B85A.BE, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: Berlin}
+- {Exchange: FRA, Name: Jade Power Trust, Ticker: B8Z.F, Type: E, TypeDisplay: ETF,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Yangzijiang Shipbuilding (Holdings) Ltd., Ticker: B8O.F, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Frankfurt}
+- {Exchange: HAM, Name: BIOFRONTERA AG NA O.N., Ticker: B8F.HM, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Hamburg}
+- {Exchange: FRA, Name: Biofrontera AG, Ticker: B8F.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: STU, Name: Big Yellow Group PLC Registered, Ticker: B9Y.SG, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Stuttgart}
+- {Exchange: BER, Name: 'NOVABAY PHARMAC.  DL-,01', Ticker: B9PA.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: FRA, Name: BHB Brauholding Bayern-Mitte AG, Ticker: B9B.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Big Yellow Group Plc, Ticker: B9Y.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: BER, Name: 'BIG YELLOW GROUP  LS 0,10', Ticker: B9Y.BE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Berlin}
+- {Exchange: HAM, Name: Bavaria Venture Capital & Trade AG, Ticker: B9V.HM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: Hamburg}
+- {Exchange: SES, Name: CosmoSteel Holdings Limited, Ticker: B9S.SI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Singapore}
+- {Exchange: FRA, Name: Blackstone Minerals Limited, Ticker: B9S.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Serabi Gold plc, Ticker: B9O2.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: FRA, Name: Balco Group AB, Ticker: B9C.F, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: Frankfurt}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc.', Ticker: RILY, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. SR NT 27', Ticker: RILYZ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: B.O.S. Better Online Solutions Ltd., Ticker: BOSC, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. SR NT 7.25% 27', Ticker: RILYG,
+  Type: S, TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. - 6.37', Ticker: RILYM, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. - 6.50', Ticker: RILYN, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'B. Riley Financial, Inc. - 6.87', Ticker: RILYI, Type: E,
+  TypeDisplay: ETF, exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Capitol Investment Corp. V, Ticker: CAP-UN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NAS, Name: CA Healthcare Acquisition Corp., Ticker: CAHC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Carney Technology Acquisition Corp. II, Ticker: CTAQW, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NAS, Name: CA Healthcare Acquisition Corp., Ticker: CAHCU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: CA Healthcare Acquisition Corp., Ticker: CAHCW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Carney Technology Acquisition Corp. II, Ticker: CTAQ, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Carney Technology Acquisition Corp. II, Ticker: CTAQU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: Cartesian Growth Corporation, Ticker: GLBLU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYS, Name: Cascade Acquisition Corp, Ticker: CAS'U, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Chubb Limited, Ticker: CB, Type: S, TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: 'CBRE Acquisition Holdings, Inc.', Ticker: CBAHU, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: WCB, Name: CBOE Volatility Index, Ticker: ^VIX, Type: I, TypeDisplay: Index,
+  exchangeDisplay: Chicago Board Options Exchange}
+- {Exchange: NYB, Name: CBOE Interest Rate 10 Year T No, Ticker: ^TNX, Type: I, TypeDisplay: Index,
+  exchangeDisplay: New York Board of Trade}
+- {Exchange: NMS, Name: 'Cracker Barrel Old Country Store, Inc.', Ticker: CBRL, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: PNK, Name: Auxly Cannabis Group Inc., Ticker: CBWTF, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: OTC Markets}
+- {Exchange: NYQ, Name: 'CBRE Group, Inc.', Ticker: CBRE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'Cboe Global Markets, Inc.', Ticker: CBOE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 'Cleveland BioLabs, Inc.', Ticker: CBLI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: The Chemours Company, Ticker: CC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Churchill Capital Corp V, Ticker: CCV-UN, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYS, Name: Churchill Capital Corp VI, Ticker: CCVIU, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Carnival Corporation & plc, Ticker: CCL, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Crown Castle International Corp. (REIT), Ticker: CCI, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: Cameco Corporation, Ticker: CCJ, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Clear Channel Outdoor Holdings, Inc.', Ticker: CCO, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NYSE}
+- {Exchange: NMS, Name: 'ChemoCentryx, Inc.', Ticker: CCXI, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: Chindata Group Holdings Limited, Ticker: CD, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Codiak BioSciences, Inc.', Ticker: CDAK, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NYQ, Name: 'Coeur Mining, Inc.', Ticker: CDE, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NYQ, Name: 'Cedar Realty Trust, Inc.', Ticker: CDR, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NYSE}
+- {Exchange: NCM, Name: ChromaDex Corporation, Ticker: CDXC, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 'Centennial Resource Development, Inc.', Ticker: CDEV, Type: S,
+  TypeDisplay: Equity, exchangeDisplay: NASDAQ}
+- {Exchange: NGM, Name: 'Cardlytics, Inc.', Ticker: CDLX, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: 'Cadence Design Systems, Inc.', Ticker: CDNS, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NCM, Name: 'Avid Bioservices, Inc.', Ticker: CDMO, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
+- {Exchange: NMS, Name: CDW Corporation, Ticker: CDW, Type: S, TypeDisplay: Equity,
+  exchangeDisplay: NASDAQ}
